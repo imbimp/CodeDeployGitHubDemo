@@ -1,0 +1,6 @@
+---
+applications:
+- name: springboot-first-tim
+  memory: 512M
+  host: springboot-first-tim
+  path: target/my-app-1.0-SNAPSHOT.jar
